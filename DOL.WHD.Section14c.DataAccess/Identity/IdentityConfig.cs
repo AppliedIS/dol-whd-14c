@@ -40,7 +40,7 @@ namespace DOL.WHD.Section14c.DataAccess.Identity
                 RequireDigit = true,
                 RequireLowercase = true,
                 RequireUppercase = true,
-                RequireZxcvbn = true
+                RequireZxcvbn = false
             };
 
             // Configure lockout
